@@ -1,0 +1,11 @@
+ACATCG ACATCG Not found
+GCTA 13 
+CGTA 7 
+TG 12 26 31 35 44 47 
+cagcT CAGCT Not found
+Cg 7 54 
+act 10 
+aCG ACG Not found
+CT 11 14 39 
+GTA 8 28 
+TCG 6 53 

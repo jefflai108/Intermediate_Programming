@@ -1,0 +1,7 @@
+<START> the 1 
+the dick 2
+dick head 99
+dick toe 1
+head the 5
+toe the 5
+toe <END> 1

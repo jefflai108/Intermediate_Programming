@@ -1,0 +1,29 @@
+commit 70bdc758c3ef6204a7069677a3786be850b51e66
+Author: jefflai108 <jefflai108@gmail.com>
+Date:   Thu Jun 16 17:18:52 2016 -0400
+
+    hw4 fifth commit
+
+commit 0e56c6ff5702aabf944e72945f1fdf5d1ea2a81d
+Author: jefflai108 <jefflai108@gmail.com>
+Date:   Thu Jun 16 15:48:05 2016 -0400
+
+    hw4 fourth commit
+
+commit c5e0b78ee7be901a0f6ba44e2afaacfa152b45d8
+Author: jefflai108 <jefflai108@gmail.com>
+Date:   Thu Jun 16 13:29:40 2016 -0400
+
+    hw4 third commit
+
+commit 16cdf316568f8aa41649a6bd7937237d69501149
+Author: jefflai108 <jefflai108@gmail.com>
+Date:   Thu Jun 16 09:34:26 2016 -0400
+
+    hw4 second commit
+
+commit 00822694fb7d8051d63a5e6d3d30692b62262246
+Author: jefflai108 <jefflai108@gmail.com>
+Date:   Tue Jun 14 21:42:07 2016 -0400
+
+    hw4 first commit

@@ -1,0 +1,14 @@
+<START> Lai 1
+Lai likes 50
+likes Sarah 25
+Sarah Hsieh 25
+likes Adelaide 25
+Adelaide Hsu 25 
+Hsu is 5
+Sarah Hsu 25 
+Adelaide Hsieh 25
+Hsieh is 5 
+is not 50
+not bitch 50 
+is bitch 50 
+bitch <END> 1

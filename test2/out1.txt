@@ -1,0 +1,5 @@
+CAA 0 13 35 
+G 4 7 20 25 28 34 39 41 53 59 
+AC 26 43 49 54 60 
+CGT CGT Not found
+TACG TACG Not found

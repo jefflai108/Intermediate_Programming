@@ -1,0 +1,8 @@
+<START> i 1
+i love 99
+love tits 999
+tits love 91
+love dick 84
+dick is 85 
+is me 24
+me <END> 1

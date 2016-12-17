@@ -1,0 +1,47 @@
+commit 3314fa63f9240e167752aea1416e24c1d70025c9
+Author: jefflai108 <jefflai108@gmail.com>
+Date:   Mon Jun 6 14:44:11 2016 -0400
+
+    hw2 last commit
+
+commit 5d56a90ca014774b48b1bd333980c116374df61e
+Author: jefflai108 <jefflai108@gmail.com>
+Date:   Mon Jun 6 13:22:47 2016 -0400
+
+    hw2 7th commmit
+
+commit d59f6d27aa8480cea4e93a8bdf9817cdcbd7003d
+Author: jefflai108 <jefflai108@gmail.com>
+Date:   Mon Jun 6 13:09:54 2016 -0400
+
+    hw2 sixth commit
+
+commit 7ec46719814fc72d770c2b4ea320c4363fa0f032
+Author: jefflai108 <jefflai108@gmail.com>
+Date:   Sun Jun 5 23:07:00 2016 -0400
+
+    hw2 fifth commit
+
+commit 1045d8d8d23abced6e70d9a82e62e9e841e6ff4e
+Author: jefflai108 <jefflai108@gmail.com>
+Date:   Sun Jun 5 16:18:44 2016 -0400
+
+    hw2 fourth commit
+
+commit e863d36ac97212bcfff6518fbe8fd497aec33fb1
+Author: jefflai108 <jefflai108@gmail.com>
+Date:   Sun Jun 5 11:30:31 2016 -0400
+
+    hw2 third commit
+
+commit aa04fd1c8041ca769b16fd61bc578c2aa6ab4256
+Author: jefflai108 <jefflai108@gmail.com>
+Date:   Sat Jun 4 22:13:46 2016 -0400
+
+    hw2 second commit
+
+commit cc222b45356ec9a1b0f932b868596d58a5a9d506
+Author: jefflai108 <jefflai108@gmail.com>
+Date:   Sat Jun 4 20:47:24 2016 -0400
+
+    hw2 first commit

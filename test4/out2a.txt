@@ -1,0 +1,4 @@
+like dick 1
+i like 1
+dick <END> 1
+<START> i 1

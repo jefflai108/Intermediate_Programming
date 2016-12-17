@@ -1,0 +1,1 @@
+together in one zip file you must use a zip file even if there only one file that youre submitting use the command zip r filezip location

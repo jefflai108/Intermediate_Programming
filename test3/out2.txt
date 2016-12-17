@@ -1,0 +1,32 @@
+Please enter your choice: 
+transcript empty
+
+Please enter your choice: Please enter the course identifier (xx.ddd.nnn): Please enter the semester and grade (yyyy.s Gg): added
+
+Please enter your choice: Please enter the course identifier (xx.ddd.nnn): Please enter the semester and grade (yyyy.s Gg): added
+
+Please enter your choice: Invalid menu choice.
+
+Please enter your choice: 3.60
+
+Please enter your choice: Please enter the course identifier (xx.ddd.nnn): Please enter the semester and grade (yyyy.s Gg): added
+
+Please enter your choice: Please enter the course identifier (xx.ddd.nnn): Please enter the semester and grade (yyyy.s Gg): present
+
+Please enter your choice: EN.600.120 4.0 Intermediate Programming 2007.S B+
+EN.600.120 4.0 Intermediate Programming 2010.F A+
+EN.600.316 3.0 Database Systems 2015.F A/
+
+Please enter your choice: Invalid menu choice.
+
+Please enter your choice: 3.75
+
+Please enter your choice: Invalid menu choice.
+
+Please enter your choice: Please enter the course identifier (xx.ddd.nnn): Please enter the semester (yyyy.s): removed
+
+Please enter your choice: Invalid menu choice.
+
+Please enter your choice: 3.60
+
+Please enter your choice: 
