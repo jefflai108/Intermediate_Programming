@@ -1,22 +1,0 @@
-Please enter your choice: Please enter the course identifier (xx.ddd.nnn): Please enter the semester and grade (yyyy.s Gg): added
-
-Please enter your choice: Please enter the course identifier (xx.ddd.nnn): Please enter the semester and grade (yyyy.s Gg): added
-
-Please enter your choice: Please enter the course identifier (xx.ddd.nnn): Please enter the semester and grade (yyyy.s Gg): added
-
-Please enter your choice: Please enter the course identifier (xx.ddd.nnn): Please enter the semester and grade (yyyy.s Gg): added
-
-Please enter your choice: Please enter the course identifier (xx.ddd.nnn): Please enter the semester and grade (yyyy.s Gg): added
-
-Please enter your choice: Please enter the course identifier (xx.ddd.nnn): Please enter the semester and grade (yyyy.s Gg): added
-
-Please enter your choice: EN.600.104 1.0 Computer Ethics 2006.F A+
-EN.600.107 3.0 Intro. Programming in Java 2006.F A+
-EN.600.120 4.0 Intermediate Programming 2006.F A+
-EN.600.226 4.0 Data Structures 2006.F A+
-EN.600.233 3.0 Computer System Fundamentals 2006.F A+
-EN.600.250 3.0 User Interf. & Mobile Apps 2006.F A+
-
-Please enter your choice: 4.00
-
-Please enter your choice: 

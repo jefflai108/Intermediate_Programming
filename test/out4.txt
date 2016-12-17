@@ -1,27 +1,0 @@
-Please enter your choice: Please enter the course identifier (xx.ddd.nnn): Please enter the semester and grade (yyyy.s Gg): added
-
-Please enter your choice: 1.70
-
-Please enter your choice: Please enter the course identifier (xx.ddd.nnn): Please enter the semester and grade (yyyy.s Gg): invalid
-
-Please enter your choice: 1.70
-
-Please enter your choice: EN.600.271 3.0 Automata & Computation Theory 2008.F C-
-
-Please enter your choice: Please enter the course identifier (xx.ddd.nnn): Please enter the semester and grade (yyyy.s Gg): invalid
-
-Please enter your choice: EN.600.271 3.0 Automata & Computation Theory 2008.F C-
-
-Please enter your choice: 1.70
-
-Please enter your choice: Please enter the course identifier (xx.ddd.nnn): Please enter the semester (yyyy.s): invalid
-
-Please enter your choice: EN.600.271 3.0 Automata & Computation Theory 2008.F C-
-
-Please enter your choice: Please enter the course identifier (xx.ddd.nnn): Please enter the semester (yyyy.s): absent
-
-Please enter your choice: EN.600.271 3.0 Automata & Computation Theory 2008.F C-
-
-Please enter your choice: 1.70
-
-Please enter your choice: 
